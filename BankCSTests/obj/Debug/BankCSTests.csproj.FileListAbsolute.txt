@@ -1,0 +1,8 @@
+c:\users\chris\documents\visual studio 2017\Projects\BankCS\BankCSTests\obj\Debug\BankCSTests.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2017\Projects\BankCS\BankCSTests\bin\Debug\BankCSTests.dll
+c:\users\chris\documents\visual studio 2017\Projects\BankCS\BankCSTests\bin\Debug\BankCSTests.pdb
+c:\users\chris\documents\visual studio 2017\Projects\BankCS\BankCSTests\bin\Debug\BankCS.dll
+c:\users\chris\documents\visual studio 2017\Projects\BankCS\BankCSTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\chris\documents\visual studio 2017\Projects\BankCS\BankCSTests\bin\Debug\BankCS.pdb
+c:\users\chris\documents\visual studio 2017\Projects\BankCS\BankCSTests\obj\Debug\BankCSTests.dll
+c:\users\chris\documents\visual studio 2017\Projects\BankCS\BankCSTests\obj\Debug\BankCSTests.pdb
